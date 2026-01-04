@@ -1,0 +1,2 @@
+day 01 - arrays and strings concepts
+day 02 - arrays problems
